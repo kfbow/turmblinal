@@ -17,12 +17,3 @@ Head on over to https://www.tumblr.com/oauth/apps and click **Register Applicati
 
 ## Fire it up!
 To run turmblinal just type `node turmblinal.js` and magic will happen!
-
-
-NOTE: This is a Work in Progress and is just the beginning. Future revisions will include:
-* Flexability on image size
-* Dispaly more than just a users dashboard
-  * Possibly even navigate tumblr via the terminal 😁
-* Pagination
-* Streaming?
-* And more!
